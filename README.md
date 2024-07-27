@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @vladikshkwok
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on some java projects
 - 📫 How to reach me:
       by mail: vladikshkwok@gmail.com 
 
